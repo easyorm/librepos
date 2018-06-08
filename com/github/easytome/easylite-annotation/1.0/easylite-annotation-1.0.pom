@@ -3,15 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.easytome</groupId>
-  <artifactId>easylite</artifactId>
+  <artifactId>easylite-annotation</artifactId>
   <version>1.0</version>
-  <packaging>aar</packaging>
-  <dependencies>
-    <dependency>
-      <groupId>EasyLite</groupId>
-      <artifactId>easylite-annotation</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
-  </dependencies>
 </project>
